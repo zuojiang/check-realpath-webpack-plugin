@@ -1,0 +1,29 @@
+{
+  "name": "check-realpath-webpack-plugin",
+  "version": "1.0.0",
+  "description": "This is a webpack plugin that check native real path in Windows and MacOS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=9.2.0"
+  },
+  "author": "zuojiang",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zuojiang/check-realpath-webpack-plugin.git"
+  },
+  "keywords": [
+    "realpath",
+    "webpack",
+    "plugin",
+    "case",
+    "path"
+  ],
+  "bugs": {
+    "url": "https://github.com/zuojiang/check-realpath-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/zuojiang/check-realpath-webpack-plugin#readme"
+}
